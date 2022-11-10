@@ -54,7 +54,7 @@ body {
   	padding: 25px 0;
   	font-size: 22px;
   	border-bottom: 1px solid #ebebeb;
-  	color: #666666;
+  	color: #666666;	
 }
 .read .create-contact {
   	display: inline-block;
@@ -72,6 +72,7 @@ body {
 .read .pagination {
   	display: flex;
   	justify-content: flex-end;
+	width: 100%;
 }
 .read .pagination a {
   	display: inline-block;
@@ -81,6 +82,7 @@ body {
   	color: #FFFFFF;
   	padding: 5px 10px;
   	margin: 15px 0 15px 5px;
+	
 }
 .read .pagination a:hover {
   	background-color: #999b9d;
@@ -98,7 +100,7 @@ body {
   	padding: 10px;
   	font-weight: bold;
   	color: #767779;
-  	font-size: 14px;
+  	font-size: 10px;
 }
 .read table tbody tr {
   	border-bottom: 1px solid #d3dae0;

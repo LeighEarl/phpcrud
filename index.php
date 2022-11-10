@@ -9,7 +9,8 @@ include 'functions.php';
 
 <div class="content">
 	<h2>Home</h2>
-	<p>Welcome to the home page!</p>
+	<p>Welcome!</p>
+		<a href="create.php" class="create-contact"> New Student Enrollment</a>
 </div>
 
 <?=template_footer()?>
