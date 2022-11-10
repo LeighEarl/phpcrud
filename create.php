@@ -28,7 +28,7 @@ if (!empty($_POST)) {
 <?=template_header('Create')?>
 
 <div class="content update">
-    <h2>Register New Student</h2>
+    <h2>Register New contact</h2>
     <form action="create.php" method="post">
     <table>
     
